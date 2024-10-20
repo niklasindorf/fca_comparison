@@ -1,0 +1,23 @@
+// Concept Lattice
+digraph {
+	A [label="Socks, Garfield, Harriet, Greyfriar's Bobby, Snoopy"]
+	B [label="real
+Greyfriar's Bobby, Socks, Harriet"]
+	C [label="mammal
+Garfield, Greyfriar's Bobby, Socks, Snoopy"]
+	D [label="mammal, cartoon
+Garfield, Snoopy"]
+	E [label="mammal, real
+Greyfriar's Bobby, Socks"]
+	F [label="mammal, dog
+Greyfriar's Bobby, Snoopy"]
+	G [label="mammal, cat
+Garfield, Socks"]
+	A -> B
+	A -> C
+	B -> E
+	C -> D
+	C -> E
+	C -> F
+	C -> G
+}
