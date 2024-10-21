@@ -20,3 +20,6 @@ Aufbau :
 4.3. Vergleich Benchmarks
 4.4. Welche Software/Methode werden wir verwenden?
 4.5. Wieso ist diese Software besonders gut für unsere Zwecke geignet?
+
+Was benutzen wir?
+Pandas, Numpy, etc.
