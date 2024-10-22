@@ -5,6 +5,9 @@ Benchmark :
 https://pycpa.readthedocs.io/en/latest/
 https://ris.utwente.nl/ws/portalfiles/portal/289325343/WATERS_2012_Proceedings.pdf#page=27 (Paper)
 
+Beispiele Caspailleur/Paspailleur :
+https://github.com/EgorDudyrev/expailleur
+
 Aufbau :
 1. FCA
 1.1. Was ist FCA
